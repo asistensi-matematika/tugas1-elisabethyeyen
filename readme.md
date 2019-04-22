@@ -1,6 +1,6 @@
 # TUGAS 1 ASISTENSI ALPRO - Jumat, 12 April 2019
-NAMA: **[INI DIISI]**
-NRP: **[INI DIISI]**
+NAMA: **[ELISABETH YEYEN SETYORINI]**
+NRP: **[06111840000068]**
 
 ## DESKRIPSI SOAL
 [LIHAT KE SINI](https://github.com/asistensi-matematika/tugas1/blob/master/readme.ipynb)
@@ -11,25 +11,41 @@ NRP: **[INI DIISI]**
 Input : -2 3 0
 
 Output :
-[INI DIISI]
-~~~~
-~~~~
+Polinomial -2x^2 +3x +0 memiliki
+1.Diskriminan              = 9.0
+2.Akar - akar polinomial   = -0.0 dan 1.5
+3.Titik Stasioner          = (0.0,1.125)
+4.Kecekungan Kurva         = Bawah 
+5.Nilai Minimum Lokal      = 1.125
+BUILD SUCCESSFUL (total time: 27 seconds)
+
 Input :1 -2 1
 
 Output :
-[INI DIISI]
-~~~~
-~~~~
+Polinomial 1x^2 +-2x +1 memiliki
+1.Diskriminan              = 0.0
+2.Akar - akar polinomial   = 1.0 dan 1.0
+3.Titik Stasioner          = (1.0,-0.0)
+4.Kecekungan Kurva         = Atas 
+5.Nilai Minimum Lokal      = -0.0
+BUILD SUCCESSFUL (total time: 13 seconds)
+
 Input : -3 0 3
 
 Output :
-[INI DIISI]
-~~~~
-~~~~
+ Polinomial -3x^2 +0x +-3 memiliki
+1.Diskriminan              = -36.0
+2.Akar - akar polinomial   = NaN dan NaN
+3.Titik Stasioner          = (0.0,-3.0)
+4.Kecekungan Kurva         = Bawah 
+5.Nilai Minimum Lokal      = -3.0
+BUILD SUCCESSFUL (total time: 8 seconds)
+
 Input : 0 0 0
 
 Output :
-[INI DIISI]
-~~~~
+Nilai a tidak boleh 0
+BUILD SUCCESSFUL (total time: 10 seconds)
+
 
 [link ke laporan]
